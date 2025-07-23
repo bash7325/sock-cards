@@ -1,0 +1,211 @@
+{
+    "deckName": "Butter Foxes",
+    "isValid": false,
+    "proofs": [
+        {
+            "content": "Butter Stained floor",
+            "tagline": "The floor is stained in a yellow, buttery substance",
+            "cardType": 3
+        },
+        {
+            "content": "USB Drive of questionable Fox images",
+            "tagline": "Mostly NSFW",
+            "cardType": 3
+        },
+        {
+            "content": "Corey's Mom",
+            "tagline": "Yup the whole Mom",
+            "cardType": 3
+        },
+        {
+            "content": "A weathered Sombrero",
+            "tagline": "A large one too",
+            "cardType": 3
+        },
+        {
+            "content": "A poop Knife",
+            "tagline": "Used. Has a funny smell to it.",
+            "cardType": 3
+        },
+        {
+            "content": "Laminated copy of castle law",
+            "tagline": "Meg?",
+            "cardType": 3
+        },
+        {
+            "content": "Empty gushers packages",
+            "tagline": "So many Gushers....",
+            "cardType": 3
+        },
+        {
+            "content": "A completed Chilis Survey",
+            "tagline": "It took a long time it looks like",
+            "cardType": 3
+        },
+        {
+            "content": "Summoning Circle",
+            "tagline": "Filthy brown circle stain in an empty cubicle....who did this?!",
+            "cardType": 3
+        },
+        {
+            "content": "Pantsless Dummy",
+            "tagline": "The dummy is Donald Ducking it",
+            "cardType": 3
+        },
+        {
+            "content": "Open ceiling hole",
+            "tagline": "Ashby shoots darts up there to keep the demons away",
+            "cardType": 3
+        },
+        {
+            "content": "swamp water",
+            "tagline": "Smells like Shrek",
+            "cardType": 3
+        },
+        {
+            "content": "Moldy sack of bread",
+            "tagline": "Blue",
+            "cardType": 3
+        },
+        {
+            "content": "Mens Room Miasma",
+            "tagline": "This is why we are always sick",
+            "cardType": 3
+        },
+        {
+            "content": "Deez Nuts",
+            "tagline": "Got eem",
+            "cardType": 3
+        },
+        {
+            "content": "Energy drink cans",
+            "tagline": "Mostly Monster, some Red bull",
+            "cardType": 3
+        },
+        {
+            "content": "Long Beard Hair",
+            "tagline": "Possibly of the Amish variety",
+            "cardType": 3
+        },
+        {
+            "content": "stack of bear cards",
+            "tagline": "next to a fat wad of cash",
+            "cardType": 3
+        },
+        {
+            "content": "A loaded gun",
+            "tagline": "make my day",
+            "cardType": 3
+        },
+        {
+            "content": "key to ians basement",
+            "tagline": "it puts the lotion on its skin",
+            "cardType": 3
+        },
+        {
+            "content": "a pto request",
+            "tagline": "written in crayon",
+            "cardType": 3
+        },
+        {
+            "content": "a motivational poster",
+            "tagline": "found in the elevator",
+            "cardType": 3
+        },
+        {
+            "content": "a crusty curtain",
+            "tagline": "why is it so crusty",
+            "cardType": 3
+        },
+        {
+            "content": "a stained disc",
+            "tagline": "mystery stain, kinda sticky",
+            "cardType": 3
+        },
+        {
+            "content": "lemur hair",
+            "tagline": "ew",
+            "cardType": 3
+        },
+        {
+            "content": "board game rules",
+            "tagline": "My god this is so boring to read....",
+            "cardType": 3
+        },
+        {
+            "content": "a receipt from the dentist",
+            "tagline": "damn thats a big bill",
+            "cardType": 3
+        },
+        {
+            "content": "half eaten la puente",
+            "tagline": "small combo and a uneaten slice of ham",
+            "cardType": 3
+        },
+        {
+            "content": "bottle of scalp cream",
+            "tagline": "2/3rds used - likely by a bald fellow",
+            "cardType": 3
+        },
+        {
+            "content": "worn rocking chair",
+            "tagline": "lightly wiped with lysol",
+            "cardType": 3
+        },
+        {
+            "content": "large pile of tumbleweeds",
+            "tagline": "decorated with empty cans and a candle",
+            "cardType": 3
+        },
+        {
+            "content": "tiny bag of illicit bread",
+            "tagline": "gimme an ounce of granny sycamore!",
+            "cardType": 3
+        },
+        {
+            "content": "crumpled up pics of usher",
+            "tagline": "used to be a fan. then diddy happened...",
+            "cardType": 3
+        },
+        {
+            "content": "squishy pink ball",
+            "tagline": "includes an extraneous nipple!",
+            "cardType": 3
+        },
+        {
+            "content": "nerf gun with balls",
+            "tagline": "what war crimes were committed?!",
+            "cardType": 3
+        },
+        {
+            "content": "office chair full of farts",
+            "tagline": "dont be rude, or your chair gets it.",
+            "cardType": 3
+        },
+        {
+            "content": "Mac Salad",
+            "tagline": "half eaten, looks like it was here a while",
+            "cardType": 3
+        },
+        {
+            "content": "a zen garden",
+            "tagline": "with tiny babies in it",
+            "cardType": 3
+        },
+        {
+            "content": "several hundred foam cups",
+            "tagline": "half full of water",
+            "cardType": 3
+        },
+        {
+            "content": "used tea bag",
+            "tagline": "someone's been bagging...",
+            "cardType": 3
+        },
+        {
+            "content": "",
+            "tagline": "",
+            "cardType": 3
+        }
+    ]
+}
