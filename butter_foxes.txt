@@ -203,8 +203,23 @@
             "cardType": 3
         },
         {
-            "content": "",
-            "tagline": "",
+            "content": "Bill Gates Keyboard",
+            "tagline": "He wrote michaelsoft bindows on it",
+            "cardType": 3
+        },
+        {
+            "content": "A crashed drone",
+            "tagline": "broken into tiny pieces",
+            "cardType": 3
+        },
+        {
+            "content": "Iron Maiden T-Shirt",
+            "tagline": "You'll take my life, but I'll take yours too",
+            "cardType": 3
+        },
+        {
+            "content": "Electric Car Brochure",
+            "tagline": "Kia",
             "cardType": 3
         }
     ]
