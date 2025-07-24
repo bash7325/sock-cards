@@ -221,6 +221,16 @@
             "content": "Electric Car Brochure",
             "tagline": "Kia",
             "cardType": 3
+        },
+        {
+            "content": "empty can of febreeze",
+            "tagline": "makes the mens room smell like flowery poop",
+            "cardType": 3
+        },
+        {
+            "content": "An AI image of a Fox",
+            "tagline": "Foxy",
+            "cardType": 3
         }
     ]
 }
